@@ -1,14 +1,14 @@
 /*
                                    SDA3011
                                Misbah AL:Ghamdi
-                               First Assaigment
+                               First Assignment
 
 
  */
 
 
 
-package test;
+package Day01;
 
 
 import org.openqa.selenium.WebDriver;

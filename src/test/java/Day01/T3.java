@@ -7,7 +7,7 @@
  */
 
 
-package test;
+package Day01;
 
 import org.openqa.selenium.Dimension;
 import org.openqa.selenium.Point;

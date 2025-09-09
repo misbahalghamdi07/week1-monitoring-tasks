@@ -5,7 +5,7 @@
 
 
  */
-package AssignmentTwo;
+package Day02;
 
 
 import org.junit.jupiter.api.AfterEach;
